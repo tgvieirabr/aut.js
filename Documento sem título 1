@@ -1,0 +1,20 @@
+percorrer os arquivos;
+
+pegar o nome do arquivo sem o número no final
+
+criar uma pasta com esse nome caso não exista
+
+mover o arquivo para dentro dessa pasta adicionando 0001, 0002, 0010 no final
+
+retornar ao inicio enquanto houver arquivos restantes
+
+
+
+
+==================================
+
+
+ORDENAR PELO NOME DO ARQUIVO SEM O NÚMERO NO FINAL
+E PELO NÚMERO DO FINAL
+OU SEJA É UMA ORDENAÇÃO QUE USA 2 PARAMETROS
+RETORNANDO UMA TUPLA
